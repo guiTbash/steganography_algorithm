@@ -1,1 +1,3 @@
-# steganography_algorithm
+# Esteganografia
+
+Este repositório é proveniente de um projeto envolvendo conceitos de processamento digital de imagens que tem por objetivo utilizar a técnica de **esteganografia** para ocultar mensagens textuais em imagens. Por meio da binarização do texto com intermédio da codificação ASCII é possível substituir bits menos significativos nos canais de cor das imagens sem alteração humanamente detectável na imagem resultante. Dessa forma, uma quantidade surpreendente de informação pode ser escondida em imagens sem que haja adição de ruído a ela. O repositório conta com um python notebook explicativo onde constam maiores especificações sobre a técnica e código utilizados.
